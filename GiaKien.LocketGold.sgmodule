@@ -1,7 +1,8 @@
-#!name=Locket Gold - NightmarketServer
-#!desc=Module cấu hình Locket Widget - NightMarket Server
+#!name=Locket Gold - GiaKien
+#!desc=Module cấu hình Locket Widget - GiaKien
 # 💬 Discord: https://discord.gg/juY9tw5AJY
-# 🚀 Rewrite by: Nightmarket Server
+# 🚀 Customized by: GiaKien
+# Original scripts by: Nightmarket Server
 
 [General]
 user-agent = Locket/1.0.0 (iPhone; iOS 26.3; Scale/3.00)
